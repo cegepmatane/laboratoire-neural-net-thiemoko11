@@ -9,8 +9,7 @@ Two : <br>
 ![image](https://github.com/user-attachments/assets/0993c53c-7ab9-4709-8ef5-1543af4ee655)
 
 
-**SIMULATEURS de NEURONES**
-&nbsp; Simulateur de neurone simple : <br> 
+**SIMULATEURS de NEURONES** <br>  Simulateur de neurone simple : <br> 
 ET : ![image](https://github.com/user-attachments/assets/2af85c16-9f7e-4950-bdde-16abc0a1af73)
 OU : ![image](https://github.com/user-attachments/assets/07ef1d1b-64a9-4e6f-ac2b-4480ef3fcb53)
 
