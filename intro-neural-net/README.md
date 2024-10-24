@@ -5,7 +5,9 @@ Train your dragon :
 Automation : 
 ![image](https://github.com/user-attachments/assets/2c12227b-bbd2-4f1c-932a-5690acbbe3c8)
 
-Two : Capture d'écran
+Two : 
+![image](https://github.com/user-attachments/assets/0993c53c-7ab9-4709-8ef5-1543af4ee655)
+
 
 **SIMULATEURS de NEURONES**
 Simulateur de neurone simple : Capture d'écran
