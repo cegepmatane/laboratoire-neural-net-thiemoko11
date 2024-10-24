@@ -15,7 +15,8 @@ Two :
 
 
 **SIMULATEURS de NEURONES**
-Simulateur de neurone simple : Capture d'écran
+Simulateur de neurone simple : ET : ![image](https://github.com/user-attachments/assets/179a6029-0189-4331-8471-776c74f16dbb)
+
 Simnulateur de perceptron : Capture d'écran
 
 **NUAGES de TENSOR FLOW**
