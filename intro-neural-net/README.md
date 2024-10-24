@@ -18,7 +18,8 @@ Two :
 Simulateur de neurone simple : ET : ![image](https://github.com/user-attachments/assets/179a6029-0189-4331-8471-776c74f16dbb)
 OU : ![image](https://github.com/user-attachments/assets/632cf392-5a67-44b8-b0c9-cd1b0acc4968)
 XOR : ![image](https://github.com/user-attachments/assets/d428537d-80b3-46fa-a753-0f603113e9a6)
-NOT : 
+NOT : ![image](https://github.com/user-attachments/assets/f2e15aed-ebdc-4b3f-ab47-5312faf4c4e3)
+
 
 Simnulateur de perceptron : Capture d'écran
 
