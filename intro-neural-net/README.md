@@ -8,7 +8,9 @@ Automation :
 ![image](https://github.com/user-attachments/assets/81e25355-3664-4565-97c7-704565522251)
 
 
-Two : Capture d'écran
+Two : 
+![image](https://github.com/user-attachments/assets/88ba4e49-2e1d-45f3-8496-e712957bf7a1)
+
 
 **SIMULATEURS de NEURONES**
 Simulateur de neurone simple : Capture d'écran
