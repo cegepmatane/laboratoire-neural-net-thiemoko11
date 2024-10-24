@@ -19,7 +19,7 @@ Simulateur de neurone simple : ET : ![image](https://github.com/user-attachments
 OU : ![image](https://github.com/user-attachments/assets/0cc72878-2d78-4841-ac43-4f0d6db33e9a)
 NOT : ![image](https://github.com/user-attachments/assets/9271345a-c449-4a28-9cba-0804b385e6f3)
 
-Simnulateur de perceptron : 
+Simnulateur de perceptron : <br>
 XOR : ![image](https://github.com/user-attachments/assets/1f9cb792-233c-4ac3-b69c-36f49984e94a)
 
 **NUAGES de TENSOR FLOW**
