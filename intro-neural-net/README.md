@@ -15,7 +15,7 @@ Two :
 
 
 **SIMULATEURS de NEURONES**
-Simulateur de neurone simple : ET : ![image](https://github.com/user-attachments/assets/6e78a755-07a5-4c95-ba11-8469fe873c36)
+Simulateur de neurone simple : ET : ![image](https://github.com/user-attachments/assets/d0502b0e-d3ed-4115-9fed-93a93db73cca)
 OU : ![image](https://github.com/user-attachments/assets/632cf392-5a67-44b8-b0c9-cd1b0acc4968)
 XOR : ![image](https://github.com/user-attachments/assets/89f36472-9e28-44cf-a449-c4ea589568d4)
 NOT : ![image](https://github.com/user-attachments/assets/f2e15aed-ebdc-4b3f-ab47-5312faf4c4e3)
