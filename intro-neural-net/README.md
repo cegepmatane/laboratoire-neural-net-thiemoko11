@@ -1,7 +1,7 @@
 ***A VISUAL GUIDE***
-Train your dragon : ![image](https://github.com/user-attachments/assets/bc4632f0-9522-4834-96b2-e0e73c580be2)
+Train your dragon : ![image](https://github.com/user-attachments/assets/ae3a10ad-6154-4ffc-a0de-a86c6b49a3e4)
 
-Automation : ![image](https://github.com/user-attachments/assets/c8b44511-7412-4a15-a35b-28883943abc1)
+Automation : ![image](https://github.com/user-attachments/assets/81e25355-3664-4565-97c7-704565522251)
 
 Two : Capture d'écran
 
