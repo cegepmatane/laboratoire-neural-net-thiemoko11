@@ -1,5 +1,5 @@
 # starter-neural-network
-
+# Train your Dragon
 ![neut0](https://github.com/user-attachments/assets/f512204b-1cee-43e7-a4bc-ed7c711aee97)
 
 
@@ -8,27 +8,13 @@
 
 ![neut2](https://github.com/user-attachments/assets/99559d1a-3795-47cb-be32-f4a25a03e2f0)
 
-
-![s00](https://github.com/user-attachments/assets/73bf241e-6728-4378-9dd8-fc9c03da3a64)
-
+# SIMULATEURS de NEURONES
 
 
-![s01](https://github.com/user-attachments/assets/279e15b7-b99a-4622-a9a2-700931e8f9f0)
+![simulation](https://github.com/user-attachments/assets/a6f2ff80-1bd9-4f59-a77e-5357804d9752)
 
+![sim](https://github.com/user-attachments/assets/2487b685-592f-4ef8-9c0c-26b37e4b516b)
 
-![s10](https://github.com/user-attachments/assets/9e0dec7c-a9d4-43d7-8ca2-5013d54ba597)
+![sii](https://github.com/user-attachments/assets/f75f898c-844e-4b5d-ba7d-2bbb2e43d485)
 
-
-![s11](https://github.com/user-attachments/assets/44a50f9c-fa79-48a6-b46e-00f6e89d86d5)
-
-
-![ss01](https://github.com/user-attachments/assets/06f0370b-0a14-4868-a212-62ecbe2557fb)
-
-
-![ss10](https://github.com/user-attachments/assets/cc55ecc6-9979-4575-8844-f076c9ea240d)
-
-
-![sss11](https://github.com/user-attachments/assets/016db41f-51e3-409a-a2e0-87dd1a583c91)
-
-
-![ssss00](https://github.com/user-attachments/assets/53e569d2-9934-4ef0-a129-a1240144d4e7)
+![simulatio](https://github.com/user-attachments/assets/e57bc13c-c6cf-425a-b74e-93a6330c008f)
