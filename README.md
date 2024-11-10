@@ -18,3 +18,14 @@
 ![sii](https://github.com/user-attachments/assets/f75f898c-844e-4b5d-ba7d-2bbb2e43d485)
 
 ![simulatio](https://github.com/user-attachments/assets/e57bc13c-c6cf-425a-b74e-93a6330c008f)
+
+NUAGES de TENSOR FLOW
+
+![mkh](https://github.com/user-attachments/assets/b54eef4b-63d7-41db-ae70-1c05c4631b7b)
+
+
+![neutra-net](https://github.com/user-attachments/assets/4de7a137-e4bd-4698-81ad-cf98df2ffe0d)
+
+
+![tr](https://github.com/user-attachments/assets/c1aff687-9932-43eb-af87-b8a6af4b4059)
+
